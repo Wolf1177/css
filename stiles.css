@@ -1,0 +1,18 @@
+body{
+    background-image: url(home.jpg);
+    background-size: cover;
+
+    font-size: 20px;
+}
+.cont {
+    max-width: 700px;
+    margin: auto;
+   text-align: center;
+}
+.list-link{
+    list-style: none;
+    padding: 5px 5px ;
+}
+/*.Avatar{
+    
+}

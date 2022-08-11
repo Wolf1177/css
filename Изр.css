@@ -1,0 +1,17 @@
+body{
+    background-image: url(home.jpg);
+    background-size: cover;
+    font-size: 20px;
+}
+.Изр1{
+    max-width: 900px;
+    margin: auto;    
+    background-color: #cbe0d9;
+    opacity: 80%;
+    text-align: center;
+}
+nav {margin: 2px 20px 10px 50px;}
+h1 {margin: 20px 250px;}
+h2 {margin: 0px 100px 10px 100px;}
+h4 {margin: 0px 100px;}
+p {margin: 0px 100px 50px 50px;}
